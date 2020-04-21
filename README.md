@@ -2,10 +2,10 @@
  
 <h1><p style="color:red">LeetCode Solution</p></h1>
 
-<h1><a href="https://babayaga9823.github.io">.</a> /h1><br>
+<h1><a href="https://babayaga9823.github.io">.</a> </h1><br>
 
 
-<h1><a href="https://www.quora.com/profile/Khitish-Panigrahi">..</a>/h1> <br>
+<h1><a href="https://www.quora.com/profile/Khitish-Panigrahi">..</a></h1> <br>
 
 
 <a href="https://github.com/babayaga9823/leetcode-solved-codes/blob/master/Cousins%20in%20Binary%20Tree.cpp">Cousins in Binary Tree.cpp</a> <br>
