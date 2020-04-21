@@ -2,7 +2,7 @@
  
 <h1><p style="color:red">LeetCode Solution</p></h1>
 
-<a href="https://babayaga9823.github.io"">.</a> <br>
+<a href="https://babayaga9823.github.io">.</a> <br>
 
 
 <a href="https://www.quora.com/profile/Khitish-Panigrahi">..</a> <br>
