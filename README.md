@@ -1,42 +1,15 @@
 
-LeetCode is a question bank. 
-
-Leetcode is definitely one of the most effective resources to prepare technical interviews. The idea is that you certainly need a bunch of practice before you can easily solve those problems.
-
-You get a large (~1000 as of this answer) collection of questions organized by difficulty.
-
-How well you do depends on how well you utilize it.
-
-Let’s say you did 300 questions on LeetCode. Your interview performance will depend on the following:
-
-1. How well did you “do” each question?
-
-Did you just look at the high-level approach? Or did you actually practice coding it? 
-
-Can you code similar questions effectively? Do you understand it well enough to explain it to someone?
-
-2. Is your approach good?
-
-Are you able to communicate your thoughts clearly?
-Are you able to break down the problem into simple concepts?
-Are you writing readable code?
-
-3. Can you solve problems that you haven’t seen before?
-
-By doing more problems, you should start seeing patterns. 
-This increases your ability to apply different patterns to new problems.
-
-Focus on Depth, not just Breadth. Many candidates focus exclusively on a large list of questions, 
-without really understanding them deeply. That won’t help you solve new problems.
+ 
+<p style="color:red">LeetCode Solution</p>
 
 <a href="https://babayaga9823.github.io"><img src="https://avatars3.githubusercontent.com/u/55147142?s=400&u=2bb792087054de63f5ad5545d694595c3d019e47&v=4"
 			style="width:350px;height:350px;"
 			></a><br>
 
-<a href="https://github.com/babayaga9823/leetcode-solved-codes/blob/master/.">.</a> <br>
+<a href="https://babayaga9823.github.io"">.</a> <br>
 
 
-<a href="https://github.com/babayaga9823/leetcode-solved-codes/blob/master/..">..</a> <br>
+<a href="https://www.quora.com/profile/Khitish-Panigrahi">..</a> <br>
 
 
 <a href="https://github.com/babayaga9823/leetcode-solved-codes/blob/master/Cousins%20in%20Binary%20Tree.cpp">Cousins in Binary Tree.cpp</a> <br>
@@ -49,9 +22,6 @@ without really understanding them deeply. That won’t help you solve new proble
 
 
 <a href="https://github.com/babayaga9823/leetcode-solved-codes/blob/master/satifying%20equation.cpp">satifying equation.cpp</a> <br>
-
-
-<a href="https://github.com/babayaga9823/leetcode-solved-codes/blob/master/loack%20down.cpp">loack down.cpp</a> <br>
 
 
 <a href="https://github.com/babayaga9823/leetcode-solved-codes/blob/master/minWindow.cpp">minWindow.cpp</a> <br>
@@ -119,8 +89,6 @@ without really understanding them deeply. That won’t help you solve new proble
 
 <a href="https://github.com/babayaga9823/leetcode-solved-codes/blob/master/Counting%20Bits%20(Medium%20).cpp">Counting Bits (Medium ).cpp</a> <br>
 
-
-<a href="https://github.com/babayaga9823/leetcode-solved-codes/blob/master/.DS_Store">.DS_Store</a> <br>
 
 
 <a href="https://github.com/babayaga9823/leetcode-solved-codes/blob/master/Symmetric%20Tree.cpp">Symmetric Tree.cpp</a> <br>
