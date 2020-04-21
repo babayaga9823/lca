@@ -29,6 +29,10 @@ This increases your ability to apply different patterns to new problems.
 Focus on Depth, not just Breadth. Many candidates focus exclusively on a large list of questions, 
 without really understanding them deeply. That won’t help you solve new problems.
 
+<a href="https://babayaga9823.github.io"></a><img src="https://avatars3.githubusercontent.com/u/55147142?s=400&u=2bb792087054de63f5ad5545d694595c3d019e47&v=4"
+			style="width:350px;height:350px;"
+			><br>
+
 <a href="https://github.com/babayaga9823/leetcode-solved-codes/blob/master/.">.</a> <br>
 
 
