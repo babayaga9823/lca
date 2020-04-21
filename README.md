@@ -1,10 +1,6 @@
 
  
-<p style="color:red">LeetCode Solution</p>
-
-<a href="https://babayaga9823.github.io"><img src="https://avatars3.githubusercontent.com/u/55147142?s=400&u=2bb792087054de63f5ad5545d694595c3d019e47&v=4"
-			style="width:350px;height:350px;"
-			></a><br>
+<h1><p style="color:red">LeetCode Solution</p></h1>
 
 <a href="https://babayaga9823.github.io"">.</a> <br>
 
